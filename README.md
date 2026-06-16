@@ -70,9 +70,9 @@ When I say "launch router", fetch https://raw.githubusercontent.com/indyrise/llm
 
 ---
 
-## Part of Indyri / Mnemo
+## Part of Mnemo (a personal long-horizon project)
 
-This project is a first implementation of the coordination layer being developed under [Mnemo](https://indyri.se) — a personal memory and context architecture for AI-assisted work. The session router handles within-session and cross-session state; Mnemo will eventually handle cross-project and long-term memory.
+This project is a first implementation of the coordination layer being developed under Mnemo — a personal memory and context architecture for AI-assisted work. The session router handles within-session and cross-session state; Mnemo will eventually handle cross-project and long-term memory.
 
 ---
 
