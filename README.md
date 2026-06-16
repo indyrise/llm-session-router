@@ -86,5 +86,5 @@ This project is a first implementation of the coordination layer being developed
 
 ## Author
 
-[Rucha Gokhale](https://indyri.se) — AI product manager, builder, fractional GTM consultant.  
+[Rucha Gokhale](https://www.linkedin.com/in/ruchagokhale) — AI product manager, builder, fractional GTM consultant.  
 Writing at [Iron Matron](https://ironmatron.substack.com).
