@@ -55,6 +55,22 @@ If you prefer to avoid the GitHub fetch on every launch, download `session-route
 
 It will open in the right panel as an interactive artifact. This is the fastest launch method and works without a network dependency. Note that you'll need to manually re-download and re-paste if you want updates.
 
+### Using with Claude Projects
+
+For the fastest and most reliable launch experience:
+
+1. Download `session-router.jsx` from this repo
+2. Create a Claude Project at claude.ai
+3. Upload `session-router.jsx` via the Files section in the project sidebar
+4. Add this line to your project instructions:
+
+   `When I say "launch router", read session-router.jsx from project files and render it as an interactive React artifact. Do not display as a code block.`
+
+5. In any new chat within that project, type "launch router" to render the router
+
+Note: render time is proportional to file size — expect 30–60 seconds for the full app.
+
+
 ### Typical session flow
 
 1. Open a Claude chat, launch the router
