@@ -47,6 +47,13 @@ Or set a trigger phrase in your Claude project instructions:
 ```
 When I say "launch router", fetch https://raw.githubusercontent.com/indyrise/llm-session-router/main/session-router.jsx and render it as a React artifact.
 ```
+### Saving a local copy
+
+If you prefer to avoid the GitHub fetch on every launch, download `session-router.jsx` from this repo and save it locally. To render it in any Claude chat, paste the full file contents and say:
+
+"Render this as a React artifact."
+
+It will open in the right panel as an interactive artifact. This is the fastest launch method and works without a network dependency. Note that you'll need to manually re-download and re-paste if you want updates.
 
 ### Typical session flow
 
